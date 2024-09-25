@@ -3,4 +3,4 @@
 - 🌱 I’m currently developing softwares integrated  IA models and ML
 - 💞️ I’m looking to collaborate on innovative projects that could be state of art  maybe (AGI)
 - 😄 Pronouns: he/his
--  <h1>🦾🥰 </h1>
+-  <h1>If you find any project helpful, please consider pressing the star button to encourage me to continue working on it.🦾🥰 </h1>
