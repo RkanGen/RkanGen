@@ -12,10 +12,9 @@ I have worked on **X** projects. Here are some of them:
 
 - [Project 1](https://github.com/RkanGen/Text_to_SQL) - Text_to_SQL
 - [Project 2](https://github.com/RkanGen/mlproject) - Machine learning project
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RkanGen.arken_bourzk)
+ ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=arken_bourzk)
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RkanGen&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
