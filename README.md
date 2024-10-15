@@ -18,4 +18,4 @@ I have worked on **X** projects. Here are some of them:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RkanGen&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RkanGen&show_icons=true&theme=radical)
+
