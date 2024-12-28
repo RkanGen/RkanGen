@@ -44,18 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RkanGen&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-### 🌟 Featured Projects
-<p align="center">
-<a href="https://github.com/RkanGen/arken_bourzk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RkanGen&arken_bourzk&theme=radical" />
-</a>
-<a href="https://github.com/RkanGen/project_rag">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RkanGen&project_rag&theme=radical" />
-</a>
- <a href="https://github.com/RkanGen/Voice_Chat_RAG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RkanGen&Voice_Chat_RAG&theme=radical" />
-</a>
-</p>
+
+
 
 ### 🤝 Connect With Me
 <p align="center">
