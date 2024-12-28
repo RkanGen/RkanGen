@@ -8,7 +8,7 @@
 
 
  
-<h1 align="center">👋 Hi, I'm [RkanGen]</h1>
+<h1 align="center">👋 Hi, I'm RkanGen</h1>
 <h3 align="center">Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
@@ -16,9 +16,9 @@
 </p>
 
 ### 🚀 About Me
-- 🔭 Currently working on **[RAG System]**
+- 🔭 Currently working on **RAG System Multimodal Chatbots**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[AI Software +Fullstack js +Machine Learning]**
+- 💬 Ask me about **AI Software +Fullstack js +Machine Learning**
 - 📫 Reach me at: **arken.bourezak@enstab.ucar.com**
 
 ### 🛠️ Tech Stack
@@ -46,17 +46,20 @@
 
 ### 🌟 Featured Projects
 <p align="center">
-<a href="https://github.com/RkanGen/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RkanGen&repo=project1&theme=radical" />
+<a href="https://github.com/RkanGen/arken_bourzk">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RkanGen&arken_bourzk&theme=radical" />
 </a>
-<a href="https://github.com/RkanGen/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RkanGen&repo=project2&theme=radical" />
+<a href="https://github.com/RkanGen/project_rag">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RkanGen&project_rag&theme=radical" />
+</a>
+ <a href="https://github.com/RkanGen/Voice_Chat_RAG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RkanGen&Voice_Chat_RAG&theme=radical" />
 </a>
 </p>
 
 ### 🤝 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/arkenbourezak"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://arkenbourezk.vercel.app/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://dev.to/"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" /></a>
 </p>
