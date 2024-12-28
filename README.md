@@ -60,6 +60,3 @@
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://dev.to/"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" /></a>
 </p>
-
-### 📈 Activity Graph
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=RkanGen&theme=react-dark)](https://github.com/RkanGen)
