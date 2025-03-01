@@ -9,7 +9,7 @@
 
  
 <h1 align="center">👋 Hi, I'm RkanGen</h1>
-<h3 align="center">Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
+<h3 align="center">Full Stack Developer | Machine Learning Engineer | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RkanGen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
