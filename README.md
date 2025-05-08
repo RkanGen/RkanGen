@@ -3,6 +3,13 @@
 - 🌱 I’m currently developing softwares integrated  IA models and ML
 - 💞️ I’m looking to collaborate on innovative projects that could be state of art  maybe (AGI)
 - 😄 Pronouns: he/his
+<h1 align="center">👋 Hi, I'm RkanGen</h1>
+<h3 align="center">Full Stack Developer | Machine Learning Engineer | Ai Software developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RkanGen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 -  <h1>If you find any project helpful, please consider pressing the star button to encourage me to continue working on it.🦾🥰 </h1>
 ### 🚀 About Me
 - 🔭 Currently working on **RAG System Multimodal Chatbots**
